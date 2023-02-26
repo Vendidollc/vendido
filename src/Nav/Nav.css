@@ -64,6 +64,7 @@
     height: 19px;
     width: 19px;
     margin-right: 5px;
+    margin-top: 5px;
 }
 
 .home-page-nav-bar-ellipse {
@@ -125,5 +126,6 @@ a:-webkit-any-link {
 
     .home-page-nav-bar-email {
         margin-right: 15px;
+        margin-top: 5px;
     }
 }
