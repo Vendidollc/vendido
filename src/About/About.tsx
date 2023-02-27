@@ -5,7 +5,7 @@ import AboutPageText from "../ReUsableComponents/AboutPageText/AboutPageText";
 
 class About extends React.Component {
     render() {
-        const headingText1 = <span>we make it <span className="text-color-about-page">easy and affordable</span> to by and sell</span>;
+        const headingText1 = <span>we make it <span className="text-color-about-page">easy and affordable</span> to buy and sell</span>;
         const descriptionText1 = <span>Our mission is to create a fair and transparent environment in real estate by bridging the knowledge gap between the major stakeholders (sellers and buyers) and providers (loan officers, title companies, attorneys and contractors), eliminating all the guess work.</span>;
 
         const headingText2 = <span><span className="text-color-about-page">one-stop shop</span> for all real estate stakeholders</span>;
