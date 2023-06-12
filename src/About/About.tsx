@@ -14,11 +14,11 @@ class About extends React.Component {
             <div className="about-page-root">
                 <AboutPageText headingText={headingText1} descriptionText={descriptionText1} />
                 <img className="about-page-image" src={require("./AboutPageImage 1.png")} />
-                <hr className="about-page-division" />
-                <div className="about-page-text-under-image">
-                    {/*<div className="about-page-text-under-image-left">fun fact</div>*/}
-                    <div className="about-page-text-under-image-right">The process of buying and selling real estate is not usually complex but it has been operating in a blurry for decades. Vendido was founded by two real estate buyers as well as sellers who understand the pain points of each one of the major real estate stakeholders in the current state. They felt the need of an online one-stop shop for everyone in this space to come and collaborate to eliminate all the guess work involved in the process and strike the best deals.</div>
-                </div>
+                {/*<hr className="about-page-division" />*/}
+                {/*<div className="about-page-text-under-image">*/}
+                {/*    /!*<div className="about-page-text-under-image-left">fun fact</div>*!/*/}
+                {/*    <div className="about-page-text-under-image-right">The process of buying and selling real estate is not usually complex but it has been operating in a blurry for decades. Vendido was founded by two real estate buyers as well as sellers who understand the pain points of each one of the major real estate stakeholders in the current state. They felt the need of an online one-stop shop for everyone in this space to come and collaborate to eliminate all the guess work involved in the process and strike the best deals.</div>*/}
+                {/*</div>*/}
                 <AboutPageText headingText={headingText2} descriptionText={descriptionText2} />
                 <div className="about-page-green-box-text-root">
                     <div className="about-page-green-box-heading">Our DNA Fundamentals</div><br/><br/>
